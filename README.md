@@ -1,6 +1,6 @@
 # BIMPUT - Input Nilai (Streamlit, 100% Python)
 
-Satu file (`app.py`), tanpa Clerk, Apps Script, atau React.
+Satu file (`app.py`).
 
 ## Fitur
 - Mahasiswa: daftar (NIM + password), pilih mata kuliah, lihat status, lihat nilai.
