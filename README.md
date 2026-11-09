@@ -9,8 +9,7 @@ Satu file (`app.py`).
 - Realtime: halaman mahasiswa menyegarkan diri tiap 5 detik.
 
 ## Login admin
-Bawaan: username `admin`, password `admin123`. GANTI sebelum dipakai sungguhan
-(lihat bagian Secrets di bawah).
+Bawaan: username `admin`, password `admin123`.
 
 ## Jalankan di komputer
     pip install -r requirements.txt
@@ -21,8 +20,7 @@ Bawaan: username `admin`, password `admin123`. GANTI sebelum dipakai sungguhan
 2. share.streamlit.io > login GitHub > Create app > pilih repo, branch `main`, file `app.py`.
 3. Advanced settings > Secrets, isi:
        ADMIN_USER = "admin"
-       ADMIN_PASSWORD = "isi-password-kuat"
-4. Deploy. Anda mendapat URL `https://nama-app.streamlit.app`.
+       ADMIN_PASSWORD = "admin123"
 
 ## Catatan data
 Data disimpan di SQLite (`bimput.db`). Di Streamlit Cloud file ini bisa hilang saat
