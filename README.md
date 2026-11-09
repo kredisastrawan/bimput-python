@@ -1,4 +1,4 @@
-# BIMPUT - Input Nilai (Streamlit, 100% Python)
+# BIMPUT - Input Nilai
 
 Satu file (`app.py`).
 
